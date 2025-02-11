@@ -72,6 +72,6 @@ Expected Outcomes:
 - Seamless Communication: Instant messaging with no delays or latency.
 - Scalable Application: The ability to handle a growing number of users and messages without compromising performance.
 
-Output
+Output:
 
 ![image2](https://github.com/user-attachments/assets/d174a460-7c5d-4046-9887-3b56cbe75b65)
